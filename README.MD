@@ -4,6 +4,6 @@ Before start script fill constants with your values:
 - work_path
 - device_id
 
-Requerements: 
+Requirements: 
 - python3
 - gmusicapi module (pip3 install gmusicapi)
